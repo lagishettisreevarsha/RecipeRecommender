@@ -1,0 +1,22 @@
+{
+  "foods": [
+    {"id": 1, "title": "Pancakes", "description": "Fluffy pancakes...", "category": "Breakfast", "image": "", "ingredients": ["Flour","Eggs","Milk","Baking powder","Maple syrup","Berries"]},
+    {"id": 2, "title": "Omelette", "description": "Cheese and veggie-loaded omelette.", "category": "Breakfast", "image": "", "ingredients": ["Eggs","Cheese","Bell peppers","Onions","Salt","Pepper"]},
+    {"id": 3, "title": "Avocado Toast", "description": "Crunchy toast with avocado.", "category": "Breakfast", "image": "", "ingredients": ["Bread","Avocado","Lemon","Salt","Chili flakes"]},
+    {"id": 4, "title": "Grilled Cheese Sandwich", "description": "Golden crispy sandwich.", "category": "Snacks", "image": "", "ingredients": ["Bread","Cheddar cheese","Butter"]},
+    {"id": 5, "title": "Chicken Burger", "description": "Juicy grilled chicken burger.", "category": "Lunch", "image": "", "ingredients": ["Chicken patty","Burger bun","Lettuce","Tomato","Mayonnaise"]},
+    {"id": 6, "title": "Veggie Wrap", "description": "Healthy wrap with veggies and hummus.", "category": "Lunch", "image": "", "ingredients": ["Tortilla","Bell peppers","Zucchini","Hummus","Lettuce"]},
+    {"id": 7, "title": "Spaghetti Bolognese", "description": "Pasta with meat sauce.", "category": "Dinner", "image": "", "ingredients": ["Spaghetti","Ground beef","Tomato sauce","Onions","Garlic"]},
+    {"id": 8, "title": "Butter Chicken", "description": "Rich and creamy butter chicken.", "category": "Dinner", "image": "", "ingredients": ["Chicken","Butter","Tomato puree","Cream","Spices"]},
+    {"id": 9, "title": "Margarita Pizza", "description": "Classic thin-crust pizza.", "category": "Dinner", "image": "", "ingredients": ["Pizza dough","Tomato sauce","Mozzarella","Basil"]},
+    {"id": 10, "title": "Chocolate Cake", "description": "Moist chocolate sponge.", "category": "Dessert", "image": "", "ingredients": ["Flour","Cocoa powder","Sugar","Eggs","Butter","Chocolate"]}
+  ],
+  "categories": [
+    {"id": 1, "name": "Breakfast"},
+    {"id": 2, "name": "Lunch"},
+    {"id": 3, "name": "Dinner"},
+    {"id": 4, "name": "Dessert"},
+    {"id": 5, "name": "Snacks"},
+    {"id": 6, "name": "Beverages"}
+  ]
+}
